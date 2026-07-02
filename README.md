@@ -164,10 +164,11 @@ npm run dev
 
 **Zoha Ashraf**
 
-Portfolio: [Add your portfolio link here]
-LinkedIn: [Add your LinkedIn link here]
-Medium: [Add your Medium profile link here]
-GitHub: [Add your GitHub profile link here]
+Portfolio: https://github.com/ZohaAshraf/Portfolio
+LinkedIn: https://www.linkedin.com/in/zohashraf/
+Medium: https://medium.com/@f243019
+GitHub: https://github.com/ZohaAshraf
+Vercel: https://vercel.com/zohaashrafs-projects
 
 ---
 
