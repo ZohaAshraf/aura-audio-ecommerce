@@ -165,9 +165,13 @@ npm run dev
 **Zoha Ashraf**
 
 Portfolio: https://github.com/ZohaAshraf/Portfolio
+
 LinkedIn: https://www.linkedin.com/in/zohashraf/
+
 Medium: https://medium.com/@f243019
+
 GitHub: https://github.com/ZohaAshraf
+
 Vercel: https://vercel.com/zohaashrafs-projects
 
 ---
